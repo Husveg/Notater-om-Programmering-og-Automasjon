@@ -18,8 +18,15 @@ Egne notater/programmer innen følgende områder:
       https://pypi.org/project/paho-mqtt/#installation    
       https://github.com/eclipse/paho.mqtt.python
 
+# PLS Programmering
+- Wago kurs videoer. 
+  https://www.wago.com/global/automation-technology/discover-software/ecockpit-engineering-software
+- Strukturert tekst
+  https://bitbucket.org/ntphx/iec-61131/src/master/
+
 # Wago E!cockpit
 - Dokumentasjon: 
     https://github.com/Wago-Norge/e-COCKPIT-Quickstart
+- Prosjekt med Codesys/Ecockpit Hjemmeautomasjon.
 - Codesys/Ecockpit/HA repository : 
     https://github.com/MichielVanwelsenaere/HomeAutomation.CoDeSys3

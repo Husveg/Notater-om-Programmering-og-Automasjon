@@ -2,12 +2,12 @@
 Egne notater/programmer innen følgende områder:
   Python/ST/WagoPFC/MQTT/Json/JavaScript/Modbus/SqL/NOSQL/PHP 
 
-# Python biblioteker
+# Python Bibliotek
 - Yr bibliotek
     Dokumentasjon: https://pypi.org/project/python-yr/
     https://github.com/wckd/python-yr
     
-# MQTT Klient bibliotek
+# MQTT Klient Bibliotek
 - MQTT bibliotek 
     Dokumentasjon: https://pypi.org/project/paho-mqtt/#installation    
       https://github.com/eclipse/paho.mqtt.python

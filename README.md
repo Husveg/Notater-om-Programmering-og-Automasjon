@@ -4,10 +4,9 @@ Egne notater/programmer innen følgende områder:
 
 # Python biblioteker
 - Yr bibliotek
-  Dokumentasjon: https://pypi.org/project/python-yr/
+    Dokumentasjon: https://pypi.org/project/python-yr/
     https://github.com/wckd/python-yr
     
-
 # MQTT Klient bibliotek
 - MQTT bibliotek 
     Dokumentasjon: https://pypi.org/project/paho-mqtt/#installation    
@@ -15,3 +14,4 @@ Egne notater/programmer innen følgende områder:
 
 # Wago E!cockpit
 - Dokumentasjon: https://github.com/Wago-Norge/e-COCKPIT-Quickstart
+- Codesys/Ecockpit/HA repository : https://github.com/MichielVanwelsenaere/HomeAutomation.CoDeSys3

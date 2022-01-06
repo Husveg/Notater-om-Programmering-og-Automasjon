@@ -11,6 +11,9 @@ Egne notater/programmer innen følgende områder:
         https://github.com/wckd/python-yr
   - Nettsider og Ressurser 
       - https://magdalon.wordpress.com/2021/02/01/python-del-13-objekter/
+      - python. 3.10 dokumentasjon: https://docs.python.org/3.10/index.html
+      - Python tutorial: https://docs.python.org/3.10/tutorial/index.html
+      - 
     
 # MQTT Klient Bibliotek
 - MQTT bibliotek 
